@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ccsounds/pip-2021-node-into/issues"
   },
-  "homepage": "https://github.com/ccsounds/pip-2021-node-into#readme"
+  "homepage": "https://github.com/ccsounds/pip-2021-node-into#readme",
+  "dependencies": {
+    "chance": "^1.1.7"
+  }
 }
