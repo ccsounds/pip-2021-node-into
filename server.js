@@ -30,7 +30,6 @@ app.get('/', function(req, res) {
         updatedPage = updatedPage.replace('%%%NAMEFORM%%%', '<p>Welcome, ' + activeName + '!</p>');
     }
     
-    
     res.send(updatedPage);
     
 });
